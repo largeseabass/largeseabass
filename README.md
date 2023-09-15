@@ -1,7 +1,7 @@
 ### Hiiii!
 
 
-I'm currently working on geohelminth infection and kissing bugs suitable habitat modelling using random forest classifier. Send me email if you have thoughts (liting@utexas.edu).
+My email (liting@utexas.edu).
 
 
 
