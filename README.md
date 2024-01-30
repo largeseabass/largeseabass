@@ -8,7 +8,7 @@ You can find some useful python GIS example scripts here:
 
 Python - including gdal, pyQGIS, etc.
 Change Projection, Raster Calculator Example, Zonal Statistics Example (https://github.com/largeseabass/KissingBugsRf)
-Average over 5 bands and produce a new raster (https://github.com/largeseabass/average_raster_band)
+Average over 5 bands and produce a new raster (https://github.com/largeseabass/average_raster_band).
 
 Graph plotting examples: will update this part later this year.
 
