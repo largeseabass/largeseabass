@@ -1,24 +1,10 @@
 ### Hiiii!
 
-- 🌱 I will share some useful python GIS scripts here:
+I am an independent developer.
 
+- 🔭 I’m currently working on a smart NPC project.
+- 📫 How to reach me: [litinghuang42@gmail.com](litinghuang42@gmail.com).
+
+- 🌱 GIS Scripts:
 Change Projection, Raster Calculator Example, Zonal Statistics with **pyQGIS** [https://github.com/largeseabass/KissingBugsRf](https://github.com/largeseabass/KissingBugsRf)
 Average over 5 bands and produce a new raster with **gdal** [https://github.com/largeseabass/average_raster_band](https://github.com/largeseabass/average_raster_band).
-
-- 🔭 I’m currently working on ecology/infectious disease-related GIS and machine learning scripts in R, e.g. raster PCA function for large raster stack.
-- 📫 How to reach me: [liting@utexas.edu](liting@utexas.edu).
-
-<!--
-**largeseabass/largeseabass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
